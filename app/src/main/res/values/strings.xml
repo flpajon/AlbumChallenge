@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">albums</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="albums_list_title">Lista de Albumes</string>
+    <string name="lb_Filter">Filtrar por nombre</string>
+    <string name="list_empty">No obtivimos resultados</string>
+    <string name="photo_list_title">Lista de fotos</string>
+</resources>
